@@ -83,4 +83,4 @@ javac -cp "lib/*" -d bin src/*
 ```
 java -cp "lib/*:bin" PageRankWG
 ```
-For larger graphs, allocate more memory to avoid OutOfMemoryError by adding -Xmx4g or -Xmx8g or -Xmx16g etc. to the above line.
+For larger graphs, allocate more memory to avoid OutOfMemoryError by appending -Xmx4g or -Xmx8g or -Xmx16g etc. to the above line.
