@@ -51,7 +51,7 @@ java -cp "lib/*" it.unimi.dsi.webgraph.BVGraph -g ArcListASCIIGraph car-2000.txt
 
 ### *Undirected Graphs in WebGraph*
 
-For k-truss decomposition, we consider simple undirected graphs. After creating the offset files, remove self-loops in the graphs by running:
+Undirected graphs are used in some algorithms, e.g., k-truss decomposition. After creating the offset files, remove self-loops in the graphs by running:
 
 ```
 java -cp "lib/*:bin" SelfLoopRemover cnr-2000 cnr-2000-noself
