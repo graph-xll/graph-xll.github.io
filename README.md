@@ -87,4 +87,4 @@ For larger graphs, allocate more memory to avoid OutOfMemoryError by appending -
 
 ## Acknowledgements
 
-Thanks Wissam Khaouid and Marina Barsky for developing the k-core decomposition program.[https://github.com/athomo/kcore]
+Thanks Wissam Khaouid and Marina Barsky for developing the [k-core decomposition] (https://github.com/athomo/kcore) program.
