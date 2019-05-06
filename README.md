@@ -17,7 +17,7 @@ The first two files are for the forward (regular) graph. The other two are for t
 java -cp "lib/*" it.unimi.dsi.webgraph.BVGraph -o -O -L cnr-2000
 ```
 
-### *Edgelist Format*
+### *Converting Edgelist Format to WebGraph Format*
 
 This section is for the case when your graph is given a text file of edges (known as edgelist). *If your graph is already in WebGraph format, skip to the next section.*
 
