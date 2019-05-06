@@ -87,4 +87,8 @@ For larger graphs, allocate more memory to avoid OutOfMemoryError by appending -
 
 ## Acknowledgements
 
-Thanks Wissam Khaouid and Marina Barsky for developing the [k-core decomposition](https://github.com/athomo/kcore) program.
+We would like to thank:
+* Wissam Khaouid and Marina Barsky for developing the [k-core decomposition](https://github.com/athomo/kcore) program.
+* Diana Popova for developing the [influence-maximization](https://github.com/dianapopova/InfluenceMax) program.
+* Yudi Santoso for developing the [triad enumeration](https://github.com/ySant/triads) program.
+* Michael Simpson for developing the [feedback-arc-set](https://github.com/stamps/FAS) program.
