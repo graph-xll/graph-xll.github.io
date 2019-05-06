@@ -86,3 +86,5 @@ java -cp "lib/*:bin" PageRankWG
 For larger graphs, allocate more memory to avoid OutOfMemoryError by appending -Xmx4g or -Xmx8g or -Xmx16g etc. to the above line.
 
 ## Acknowledgements
+
+Thanks Wissam Khaouid and Marina Barsky for developing the k-core decomposition program.[https://github.com/athomo/kcore]
