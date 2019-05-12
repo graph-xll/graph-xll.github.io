@@ -7,3 +7,7 @@
   color: rgba(0, 0, 0, 0.8) !important;
   font-weight: bold !important;
 }
+
+#graph-xll blockquote {
+  color: rgba(0, 0, 0, 0.6) !important;
+}
