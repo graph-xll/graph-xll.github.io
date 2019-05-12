@@ -3,6 +3,7 @@
   max-height: 14rem;
 }
 
-.anchor span {
-  color: black !important;
+.conver-main .anchor span {
+  color: rgba(0, 0, 0, 0.8) !important;
+  font-weight: bold !important;
 }
