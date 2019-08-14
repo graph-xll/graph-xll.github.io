@@ -85,6 +85,10 @@ java -cp "lib/*:bin" PageRankWG
 ```
 For larger graphs, allocate more memory to avoid OutOfMemoryError by appending -Xmx4g or -Xmx8g or -Xmx16g etc. to the above line.
 
+# Publication
+* Graph-XLL: a Graph Library for Extra Large Graph Analytics on a Single Machine
+[IISA-2019](https://github.com/graph-xll/graph-xll.github.io/blob/master/IISA-2019.pdf)
+
 # Acknowledgements
 
 We would like to thank:
